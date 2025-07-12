@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f5f7fa;
+}
+
+header {
+  background-color: #2b6777;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2rem;
+}
+
+.form-section {
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+form input, form textarea, form button {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.7rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+form button {
+  background-color: #2b6777;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+form button:hover {
+  background-color: #1c4c5b;
+}
+
+.event-list {
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
+.event {
+  border-bottom: 1px solid #ccc;
+  padding: 1rem 0;
+}
+
+footer {
+  background-color: #2b6777;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+.event button {
+  margin-right: 10px;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.event .edit-btn { background-color: #ffae42; color: white; }
+.event .delete-btn { background-color: #e74c3c; color: white; }
+.event .share-btn { background-color: #3498db; color: white; }
+
+.event .edit-btn:hover { background-color: #d99133; }
+.event .delete-btn:hover { background-color: #c0392b; }
+.event .share-btn:hover { background-color: #2980b9; }
