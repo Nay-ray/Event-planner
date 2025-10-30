@@ -12,6 +12,7 @@ A responsive and interactive Event Planner Web App built using HTML, CSS, and Ja
 
 📱 Mobile-friendly
 
+
 🛠️Tech Stack
 HTML5 – Semantic structure
 
