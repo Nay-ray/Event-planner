@@ -5,7 +5,6 @@ A responsive and interactive Event Planner Web App built using HTML, CSS, and Ja
 
  🚀 Features
 ➕ Add new events with title, date, time, and description
-
 📝 Edit and delete existing events
 
 📆 Calendar-style event display or list view
