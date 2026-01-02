@@ -8,7 +8,6 @@ A responsive and interactive Event Planner Web App built using HTML, CSS, and Ja
 📝 Edit and delete existing events
 📆 Calendar-style event display or list view
 💾 Persistent event storage using localStorage
-
 📱 Mobile-friendly
 
 
