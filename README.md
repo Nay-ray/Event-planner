@@ -1,4 +1,4 @@
-# Event-planner
+ # Event-planner
 
 📅 Event Planner Web Application
 A responsive and interactive Event Planner Web App built using HTML, CSS, and JavaScript. This application allows users to create, view, edit, and manage personal or group events with ease. Ideal for managing meetings, parties, workshops, or any event that requires planning and organization.
